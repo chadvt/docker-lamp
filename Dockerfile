@@ -1,3 +1,4 @@
+# Usage for the DellProject
 FROM ubuntu:16.04
 MAINTAINER Fer Uria <fauria@gmail.com>
 LABEL Description="Cutting-edge LAMP stack, based on Ubuntu 16.04 LTS. Includes .htaccess support and popular PHP7 features, including composer and mail() function." \
